@@ -1,0 +1,10 @@
+!.gitignore
+
+.idea
+__pycache__
+
+*.csv
+*.mp4
+tests/*
+convergence_classifier_final_*/*
+output_model_*/*
